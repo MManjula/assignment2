@@ -1,18 +1,18 @@
-package com.training.junit.testpalindrome;
+package com.training.junit.testpalindromesorting;
 
 import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import com.training.junit.Palindrome.Palindrome;
+import com.training.junit.palindromesorting.PalindromeSorting;
 
-public class TestPalindrome {
-	private Palindrome<Object> number;
+public class TestPalindromeSorting {
+	private PalindromeSorting<Object> number;
 
 	@Before
 	public void setUp() {
-		number = new Palindrome<Object>();
+		number = new PalindromeSorting<Object>();
 	}
 
 	@Test

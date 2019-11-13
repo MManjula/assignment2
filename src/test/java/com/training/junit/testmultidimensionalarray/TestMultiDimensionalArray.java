@@ -1,4 +1,4 @@
-package com.cg.training.testmultidimensionalarray;
+package com.training.junit.testmultidimensionalarray;
 
 import static org.junit.Assert.assertEquals;
 

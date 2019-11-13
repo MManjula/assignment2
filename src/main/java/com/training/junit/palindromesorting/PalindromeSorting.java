@@ -1,6 +1,6 @@
-package com.training.junit.Palindrome;
+package com.training.junit.palindromesorting;
 
-public class Palindrome<T> {
+public class PalindromeSorting<T> {
 
 	public String[] callPalindrome(String[] inputs) {
 		String[] palindromeArray = {};
