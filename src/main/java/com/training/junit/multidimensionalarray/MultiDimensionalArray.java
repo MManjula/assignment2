@@ -1,4 +1,4 @@
-package com.training.multidimensionalarray;
+package com.training.junit.multidimensionalarray;
 
 import com.training.junit.multidimensionalarray.myexception.InvalidInputException;
 
