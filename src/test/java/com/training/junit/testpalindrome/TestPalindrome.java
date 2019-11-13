@@ -1,4 +1,4 @@
-package com.training.testpalindrome;
+package com.training.junit.testpalindrome;
 
 import static org.junit.Assert.assertEquals;
 
