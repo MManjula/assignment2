@@ -1,6 +1,6 @@
-package com.cg.training.multidimensionalarray;
+package com.training.multidimensionalarray;
 
-import com.cg.training.multidimensionalarray.myexception.InvalidInputException;
+import com.training.junit.multidimensionalarray.myexception.InvalidInputException;
 
 public class MultiDimensionalArray {
 

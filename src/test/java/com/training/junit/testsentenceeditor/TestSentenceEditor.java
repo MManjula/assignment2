@@ -1,4 +1,4 @@
-package testsentenceeditor;
+package com.training.junit.testsentenceeditor;
 
 import static org.junit.Assert.assertEquals;
 

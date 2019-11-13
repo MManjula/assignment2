@@ -1,4 +1,4 @@
-package com.cg.training.palindrome;
+package com.training.junit.palindrome;
 
 public class Palindrome {
 

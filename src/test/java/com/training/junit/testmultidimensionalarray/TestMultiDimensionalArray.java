@@ -4,8 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.cg.training.multidimensionalarray.MultiDimensionalArray;
-import com.cg.training.multidimensionalarray.myexception.InvalidInputException;
+import com.training.junit.multidimensionalarray.myexception.InvalidInputException;
+import com.training.multidimensionalarray.MultiDimensionalArray;
 
 public class TestMultiDimensionalArray {
 

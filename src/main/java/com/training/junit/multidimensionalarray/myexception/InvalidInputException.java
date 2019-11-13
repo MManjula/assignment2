@@ -1,4 +1,4 @@
-package com.cg.training.multidimensionalarray.myexception;
+package com.training.junit.multidimensionalarray.myexception;
 
 public class InvalidInputException extends Exception {
 

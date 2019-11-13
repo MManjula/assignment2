@@ -1,10 +1,10 @@
-package com.cg.training.testpalindrome;
+package com.training.testpalindrome;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.cg.training.palindrome.Palindrome;
+import com.training.junit.palindrome.Palindrome;
 
 public class TestPalindrome {
 
