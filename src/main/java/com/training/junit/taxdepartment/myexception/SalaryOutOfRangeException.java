@@ -1,5 +1,10 @@
 package com.training.junit.taxdepartment.myexception;
 
+/**
+ * 
+ * @author MManjula
+ *
+ */
 public class SalaryOutOfRangeException extends Exception {
 	public SalaryOutOfRangeException() {
 	}

@@ -1,7 +1,17 @@
 package com.training.junit.palindromesorting;
 
+/**
+ * 
+ * @author MManjula
+ *
+ * @param <T>
+ */
 public class PalindromeSorting<T> {
-
+	/**
+	 * 
+	 * @param inputs
+	 * @return the palindromes in descending order
+	 */
 	public String[] callPalindrome(String[] inputs) {
 		String[] palindromeArray = {};
 		int index = 0;
@@ -17,7 +27,7 @@ public class PalindromeSorting<T> {
 				palindromeArray[index] = inputs[i];
 				System.out.println(palindromeArray[index]);
 				index++;
-				
+
 			}
 		}
 
@@ -29,6 +39,5 @@ public class PalindromeSorting<T> {
 		return palindromeArray;
 
 	}
-
 
 }

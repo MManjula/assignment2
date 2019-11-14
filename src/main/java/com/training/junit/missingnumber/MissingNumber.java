@@ -2,8 +2,18 @@ package com.training.junit.missingnumber;
 
 import java.util.Arrays;
 
+/**
+ * 
+ * @author MManjula
+ *
+ */
 public class MissingNumber {
-
+	/**
+	 * 
+	 * @param array
+	 * @return the missing number in the array
+	 * @throws NoMissingNumberFoundException if there is no missing number
+	 */
 	public static Object calFinder(int[] array) throws NoMissingNumberFoundException {
 		int missingNumber = 0;
 		Arrays.sort(array);

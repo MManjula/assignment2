@@ -2,8 +2,19 @@ package com.training.junit.teststringreverse;
 
 import com.training.junit.stringreverse.myexception.InvalidStringException;
 
+/**
+ * 
+ * @author MManjula
+ *
+ */
 public class StringReverse {
-
+	/**
+	 * 
+	 * @param string
+	 * @return the new string which is in reversed form of the string entered by the
+	 *         user
+	 * @throws InvalidStringException
+	 */
 	public static Object reverse(String string) throws InvalidStringException {
 		if (!string.isEmpty()) {
 			String[] stringWithoutSpace = string.split(" ");

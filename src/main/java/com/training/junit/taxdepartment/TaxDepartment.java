@@ -2,8 +2,19 @@ package com.training.junit.taxdepartment;
 
 import com.training.junit.taxdepartment.myexception.SalaryOutOfRangeException;
 
+/**
+ * 
+ * @author MManjula
+ *
+ * @param <S>
+ */
 public class TaxDepartment<S> {
-
+	/**
+	 * 
+	 * @param salary
+	 * @return the amount of tax which is calculated on the basis of salary
+	 * @throws SalaryOutOfRangeException
+	 */
 	public double calTax(double salary) throws SalaryOutOfRangeException {
 		if (salary >= 0 && salary <= 180000)
 			return 0;

@@ -1,5 +1,10 @@
 package com.training.junit.stringreverse.myexception;
 
+/**
+ * 
+ * @author MManjula
+ *
+ */
 public class InvalidStringException extends Exception {
 
 	public InvalidStringException() {

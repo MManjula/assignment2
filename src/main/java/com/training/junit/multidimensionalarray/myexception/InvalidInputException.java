@@ -1,9 +1,13 @@
 package com.training.junit.multidimensionalarray.myexception;
 
+/**
+ * 
+ * @author MManjula
+ *
+ */
 public class InvalidInputException extends Exception {
 
 	public InvalidInputException() {
-		// TODO Auto-generated constructor stub
 	}
 
 	public InvalidInputException(String message) {
