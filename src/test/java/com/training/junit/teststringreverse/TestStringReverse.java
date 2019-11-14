@@ -1,4 +1,4 @@
-package com.training.junit.stringreverse;
+package com.training.junit.teststringreverse;
 
 import static org.junit.Assert.assertEquals;
 
