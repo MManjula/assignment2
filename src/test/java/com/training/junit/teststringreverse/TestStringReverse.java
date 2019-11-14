@@ -4,8 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import com.training.junit.stringreverse.StringReverse;
 import com.training.junit.stringreverse.myexception.InvalidStringException;
-import com.training.junit.teststringreverse.StringReverse;
 
 /**
  * 

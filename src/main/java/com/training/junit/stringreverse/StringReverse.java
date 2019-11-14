@@ -1,4 +1,4 @@
-package com.training.junit.teststringreverse;
+package com.training.junit.stringreverse;
 
 import com.training.junit.stringreverse.myexception.InvalidStringException;
 
